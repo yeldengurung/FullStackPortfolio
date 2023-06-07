@@ -1,3 +1,16 @@
-body{
-    background-color: blue;
+h1 {
+    color: whitesmoke;
+  }
+
+h2 {
+    color: rgb(230, 45, 45);
+  }
+
+h3 {
+    color: greenyellow;
 }
+p {
+    background-color: rgb(85, 154, 85);
+  color: white;
+}
+
