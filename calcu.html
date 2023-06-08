@@ -13,26 +13,32 @@
         <div class="row">
             <div class="col-2"></div>
             <div class="col">
-                <input type="text" disabled>
+                <input id="screen" type="text"disabled style="text-align:right">
                 <span style="display: block;">
-                    <button >
+                    <button onclick="display('1')" >
                         1
                     </button>
-                    <button>
+                    <button onclick="display('2')">
                         2
                     </button>
-                    <button>
+                    <button onclick="display('3')">
                         3
                     </button>
-                    <button>
+                    <button onclick="display('4')">
                         4
                     </button>
-                    <button>
+                    <button onclick="display('5')">
                         5
                     </button>
-
-
-
+                    <button onclick="display('+')">
+                        +
+                    </button>
+                    <button onclick="solve()">
+                        =
+                    </button>
+                </span>
+            </div>
+            <div class="col-2"></div>
         </div>
     </body>
 
