@@ -22,10 +22,10 @@ header{
 }
 
 #screen {
-  background-color: rgb(250, 234, 234);
-  border-color: rgb(176, 157, 73);
-  border-width: 3px;
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(59, 104, 76);
+  border-width: 10px;
   margin: 5%;
-  color: black;
+  color: rgb(0, 0, 0);
   font-weight: bold;
 }
