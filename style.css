@@ -4,6 +4,8 @@ body {
 
 h1{
   color: beige;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header{
@@ -28,4 +30,5 @@ header{
   margin: 5%;
   color: rgb(0, 0, 0);
   font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
